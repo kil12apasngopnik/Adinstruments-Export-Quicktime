@@ -183,3 +183,6 @@ This repository serves as the official landing page for ADInstruments Export Qui
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of ADInstruments Export QuickTime today!**
+
+---
+**Last updated:** 2026-11-07 22:28:14 UTC
