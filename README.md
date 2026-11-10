@@ -185,4 +185,4 @@ This repository serves as the official landing page for ADInstruments Export Qui
 **Get the most recent version of ADInstruments Export QuickTime today!**
 
 ---
-**Last updated:** 2026-11-10 09:08:50 UTC
+**Last updated:** 2026-11-10 17:26:34 UTC
